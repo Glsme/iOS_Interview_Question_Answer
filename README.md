@@ -56,7 +56,7 @@
 | | URLSession에 대해서 설명하시오. |
 | | prepareForReuse에 대해서 설명하시오. |
 | | 다크모드를 지원하는 방법에 대해 설명하시오. |
-| | ViewController의 생명주기를 설명하시오. |
+| [#3](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/3) | ViewController의 생명주기를 설명하시오. |
 | | TableView와 CollectionView의 차이점을 설명하시오. |
 
 ## Autolayout
