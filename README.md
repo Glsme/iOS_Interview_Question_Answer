@@ -3,15 +3,15 @@
 
 ## iOS
 | 번호 | 질문 | 
-|--|--|
-| | Bounds 와 Frame 의 차이점을 설명하시오. |
-| | 실제 디바이스가 없을 경우 개발 환경에서 할 수 있는 것과 없는 것을 설명하시오. |
+|:--:|--|
+| [#1](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/1) | Bounds 와 Frame 의 차이점을 설명하시오. |
+| [#2](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/2) | 실제 디바이스가 없을 경우 개발 환경에서 할 수 있는 것과 없는 것을 설명하시오. |
 | | 앱의 콘텐츠나 데이터 자체를 저장/보관하는 특별한 객체를 무엇이라고 하는가? |
 | | 앱 화면의 콘텐츠를 표시하는 로직과 관리를 담당하는 객체를 무엇이라고 하는가? |
 | | App thinning에 대해서 설명하시오. |
 ### 
 | | |
-|--|--|
+|:--:|--|
 | | 앱이 시작할 때 main.c 에 있는 UIApplicationMain 함수에 의해서 생성되는 객체는 무엇인가? |
 | | @Main에 대해서 설명하시오. |
 | | 앱이 foreground에 있을 때와 background에 있을 때 어떤 제약사항이 있나요? |
@@ -22,13 +22,13 @@
 | | App의 Not running, Inactive, Active, Background, Suspended에 대해 설명하시오. |
 ###
 | | |
-|--|--|
+|:--:|--|
 | | NSOperationQueue 와 GCD Queue 의 차이점을 설명하시오. |
 | | GCD API 동작 방식과 필요성에 대해 설명하시오. |
 | | Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오. |
 ###
 | | |
-|--|--|
+|:--:|--|
 | | iOS 앱을 만들고, User Interface를 구성하는 데 필수적인 프레임워크 이름은 무엇인가? |
 | | Foundation Kit은 무엇이고 포함되어 있는 클래스들은 어떤 것이 있는지 설명하시오. |
 | | Delegate란 무엇인지 설명하고, retain 되는지 안되는지 그 이유를 함께 설명하시오. |
@@ -47,7 +47,7 @@
 | | stackView의 장점과 단점에 대해서 설명하시오. |
 ###
 | | |
-|--|--|
+|:--:|--|
 | | NSCache와 딕셔너리로 캐시를 구성했을때의 차이를 설명하시오. |
 | | URLSession에 대해서 설명하시오. |
 | | prepareForReuse에 대해서 설명하시오. |
@@ -57,7 +57,7 @@
 
 ## Autolayout
 | | |
-|--|--|
+|:--:|--|
 | | 오토레이아웃을 코드로 작성하는 방법은 무엇인가? (3가지) |
 | | hugging, resistance에 대해서 설명하시오. |
 | | Intrinsic Size에 대해서 설명하시오. |
@@ -67,7 +67,7 @@
 
 ## Swift
 | | |
-|--|--|
+|:--:|--|
 | | struct와 class와 enum의 차이를 설명하시오. |
 | | class의 성능을 향상 시킬수 있는 방법들을 나열해보시오. |
 | | Copy On Write는 어떤 방식으로 동작하는지 설명하시오. |
@@ -105,7 +105,7 @@
 
 ## ARC
 | | |
-|--|--|
+|:--:|--|
 | | ARC란 무엇인지 설명하시오. |
 | | Retain Count 방식에 대해 설명하시오. |
 | | Strong 과 Weak 참조 방식에 대해 설명하시오. |
@@ -114,7 +114,7 @@
 
 ## Functional Programming
 | | |
-|--|--|
+|:--:|--|
 | | 순수함수란 무엇인지 설명하시오. |
 | | 함수형 프로그래밍이 무엇인지 설명하시오. |
 | | 고차 함수가 무엇인지 설명하시오. |
@@ -122,18 +122,18 @@
 
 ## Architecture
 | | |
-|--|--|
+|:--:|--|
 | | MVVM, MVI, Ribs, VIP 등 자신이 알고있는 아키텍쳐를 설명하시오. |
 | | 의존성 주입에 대하여 설명하시오. |
 
 ## SwiftUI
 | | |
-|--|--|
+|:--:|--|
 | | @State에 대해서 설명하시오. |
 
 ## Combine
 | | |
-|--|--|
+|:--:|--|
 | | PassthroughSubject에 대해서 설명하시오 |
 | | @Published에 대해서 설명하시오 |
 | | AnyCancellable에 대해서 설명하시오 |
@@ -143,7 +143,7 @@
 
 ## Rx
 | | |
-|--|--|
+|:--:|--|
 | | Reactive Programming이 무엇인지 설명하시오. |
 | | RxSwift를 왜 사용하는지 설명하시오. |
 | | RxSwift의 단점을 설명하시오. |
