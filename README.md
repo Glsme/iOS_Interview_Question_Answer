@@ -1,6 +1,10 @@
 # 🧙 재르시 면접 질문에 대한 답변 정리입니다.
-링크: https://github.com/JeaSungLEE/iOSInterviewquestions#ios
-
+[질문 링크](https://github.com/JeaSungLEE/iOSInterviewquestions#ios)
+<br/></br>
+```
+만약 답변 중 틀린 것이나, 수정해야할 부분이 있다면 알려주시면 수정하도록 하겠습니다!
+```
+<br/></br>
 ## iOS
 | 번호 | 질문 | 
 |:--:|--|
