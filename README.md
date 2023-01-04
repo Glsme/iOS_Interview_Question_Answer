@@ -6,10 +6,10 @@
 ```
 <br/></br>
 ## iOS
-| 번호 | 질문 | 
+| 답변 | 질문 | 
 |:--:|--|
-| [#1](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/1) | Bounds 와 Frame 의 차이점을 설명하시오. |
-| [#2](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/2) | 실제 디바이스가 없을 경우 개발 환경에서 할 수 있는 것과 없는 것을 설명하시오. |
+| [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/1) | Bounds 와 Frame 의 차이점을 설명하시오. |
+| [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/2) | 실제 디바이스가 없을 경우 개발 환경에서 할 수 있는 것과 없는 것을 설명하시오. |
 | | 앱의 콘텐츠나 데이터 자체를 저장/보관하는 특별한 객체를 무엇이라고 하는가? |
 | | 앱 화면의 콘텐츠를 표시하는 로직과 관리를 담당하는 객체를 무엇이라고 하는가? |
 | | App thinning에 대해서 설명하시오. |
@@ -56,21 +56,21 @@
 | | URLSession에 대해서 설명하시오. |
 | | prepareForReuse에 대해서 설명하시오. |
 | | 다크모드를 지원하는 방법에 대해 설명하시오. |
-| [#3](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/3) | ViewController의 생명주기를 설명하시오. |
+| [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/3) | ViewController의 생명주기를 설명하시오. |
 | | TableView와 CollectionView의 차이점을 설명하시오. |
 
 ## Autolayout
-| | |
+| 답변 | 질문 |
 |:--:|--|
 | | 오토레이아웃을 코드로 작성하는 방법은 무엇인가? (3가지) |
 | | hugging, resistance에 대해서 설명하시오. |
 | | Intrinsic Size에 대해서 설명하시오. |
 | | 스토리보드를 이용했을때의 장단점을 설명하시오. |
 | | Safearea에 대해서 설명하시오. |
-| | Left Constraint 와 Leading Constraint 의 차이점을 설명하시오. |
+| [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/4) | Left Constraint 와 Leading Constraint 의 차이점을 설명하시오. |
 
 ## Swift
-| | |
+| 답변 | 질문 |
 |:--:|--|
 | | struct와 class와 enum의 차이를 설명하시오. |
 | | class의 성능을 향상 시킬수 있는 방법들을 나열해보시오. |
@@ -108,7 +108,7 @@
 | | Closure와 함수와의 관계에 대해 설명하시오. |
 
 ## ARC
-| | |
+| 답변 | 질문 |
 |:--:|--|
 | | ARC란 무엇인지 설명하시오. |
 | | Retain Count 방식에 대해 설명하시오. |
@@ -117,7 +117,7 @@
 | | 강한 순환 참조 (Strong Reference Cycle) 는 어떤 경우에 발생하는지 설명하시오. |
 
 ## Functional Programming
-| | |
+| 답변 | 질문 |
 |:--:|--|
 | | 순수함수란 무엇인지 설명하시오. |
 | | 함수형 프로그래밍이 무엇인지 설명하시오. |
@@ -125,18 +125,18 @@
 | | Swift Standard Library의 map, filter, reduce, compactMap, flatMap에 대하여 설명하시오. |
 
 ## Architecture
-| | |
+| 답변 | 질문 |
 |:--:|--|
 | | MVVM, MVI, Ribs, VIP 등 자신이 알고있는 아키텍쳐를 설명하시오. |
 | | 의존성 주입에 대하여 설명하시오. |
 
 ## SwiftUI
-| | |
+| 답변 | 질문 |
 |:--:|--|
 | | @State에 대해서 설명하시오. |
 
 ## Combine
-| | |
+| 답변 | 질문 |
 |:--:|--|
 | | PassthroughSubject에 대해서 설명하시오 |
 | | @Published에 대해서 설명하시오 |
@@ -146,7 +146,7 @@
 | | Data를 Binding 하는 방법에 대해서 설명하시오. |
 
 ## Rx
-| | |
+| 답변 | 질문 |
 |:--:|--|
 | | Reactive Programming이 무엇인지 설명하시오. |
 | | RxSwift를 왜 사용하는지 설명하시오. |
