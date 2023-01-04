@@ -17,7 +17,7 @@
 | | |
 |:--:|--|
 | | 앱이 시작할 때 main.c 에 있는 UIApplicationMain 함수에 의해서 생성되는 객체는 무엇인가? |
-| | @Main에 대해서 설명하시오. |
+| [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/6) | @Main에 대해서 설명하시오. |
 | | 앱이 foreground에 있을 때와 background에 있을 때 어떤 제약사항이 있나요? |
 | | 상태 변화에 따라 다른 동작을 처리하기 위한 앱델리게이트 메서드들을 설명하시오. |
 | | 앱이 In-Active 상태가 되는 시나리오를 설명하시오. |
@@ -66,7 +66,7 @@
 | | hugging, resistance에 대해서 설명하시오. |
 | | Intrinsic Size에 대해서 설명하시오. |
 | | 스토리보드를 이용했을때의 장단점을 설명하시오. |
-| | Safearea에 대해서 설명하시오. |
+| [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/5) | Safearea에 대해서 설명하시오. |
 | [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/4) | Left Constraint 와 Leading Constraint 의 차이점을 설명하시오. |
 
 ## Swift
