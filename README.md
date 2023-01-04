@@ -18,9 +18,9 @@
 |:--:|--|
 | | 앱이 시작할 때 main.c 에 있는 UIApplicationMain 함수에 의해서 생성되는 객체는 무엇인가? |
 | [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/6) | @Main에 대해서 설명하시오. |
-| | 앱이 foreground에 있을 때와 background에 있을 때 어떤 제약사항이 있나요? |
+| [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/9) | 앱이 foreground에 있을 때와 background에 있을 때 어떤 제약사항이 있나요? |
 | | 상태 변화에 따라 다른 동작을 처리하기 위한 앱델리게이트 메서드들을 설명하시오. |
-| | 앱이 In-Active 상태가 되는 시나리오를 설명하시오. |
+| [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/10) | 앱이 In-Active 상태가 되는 시나리오를 설명하시오. |
 | | scene delegate에 대해 설명하시오. |
 | | UIApplication 객체의 컨트롤러 역할은 어디에 구현해야 하는가? |
 | | App의 Not running, Inactive, Active, Background, Suspended에 대해 설명하시오. |
@@ -63,8 +63,8 @@
 | 답변 | 질문 |
 |:--:|--|
 | | 오토레이아웃을 코드로 작성하는 방법은 무엇인가? (3가지) |
-| | hugging, resistance에 대해서 설명하시오. |
-| | Intrinsic Size에 대해서 설명하시오. |
+| [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/8) | hugging, resistance에 대해서 설명하시오. |
+| [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/7) | Intrinsic Size에 대해서 설명하시오. |
 | | 스토리보드를 이용했을때의 장단점을 설명하시오. |
 | [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/5) | Safearea에 대해서 설명하시오. |
 | [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/4) | Left Constraint 와 Leading Constraint 의 차이점을 설명하시오. |
@@ -75,7 +75,7 @@
 | | struct와 class와 enum의 차이를 설명하시오. |
 | | class의 성능을 향상 시킬수 있는 방법들을 나열해보시오. |
 | | Copy On Write는 어떤 방식으로 동작하는지 설명하시오. |
-| | Convenience init에 대해 설명하시오. |
+| [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/11) | Convenience init에 대해 설명하시오. |
 | | AnyObject에 대해 설명하시오. |
 | | Optional 이란 무엇인지 설명하시오. |
 | | Struct 가 무엇이고 어떻게 사용하는지 설명하시오. |
