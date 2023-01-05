@@ -10,9 +10,9 @@
 |:--:|--|
 | [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/1) | Bounds 와 Frame 의 차이점을 설명하시오. |
 | [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/2) | 실제 디바이스가 없을 경우 개발 환경에서 할 수 있는 것과 없는 것을 설명하시오. |
-| | 앱의 콘텐츠나 데이터 자체를 저장/보관하는 특별한 객체를 무엇이라고 하는가? |
-| | 앱 화면의 콘텐츠를 표시하는 로직과 관리를 담당하는 객체를 무엇이라고 하는가? |
-| | App thinning에 대해서 설명하시오. |
+| [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/13) | 앱의 콘텐츠나 데이터 자체를 저장/보관하는 특별한 객체를 무엇이라고 하는가? |
+| [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/14) | 앱 화면의 콘텐츠를 표시하는 로직과 관리를 담당하는 객체를 무엇이라고 하는가? |
+| [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/15) | App thinning에 대해서 설명하시오. |
 ### 
 | | |
 |:--:|--|
@@ -77,7 +77,7 @@
 | | Copy On Write는 어떤 방식으로 동작하는지 설명하시오. |
 | [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/11) | Convenience init에 대해 설명하시오. |
 | | AnyObject에 대해 설명하시오. |
-| | Optional 이란 무엇인지 설명하시오. |
+| [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/12) | Optional 이란 무엇인지 설명하시오. |
 | | Struct 가 무엇이고 어떻게 사용하는지 설명하시오. |
 | | Subscripts에 대해 설명하시오. |
 | | String은 왜 subscript로 접근이 안되는지 설명하시오. |
