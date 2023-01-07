@@ -45,7 +45,7 @@
 | | UIView 에서 Layer 객체는 무엇이고 어떤 역할을 담당하는지 설명하시오. |
 | | UIWindow 객체의 역할은 무엇인가? |
 | | UINavigationController 의 역할이 무엇인지 설명하시오. |
-| | TableView를 동작 방식과 화면에 Cell을 출력하기 위해 최소한 구현해야 하는 DataSource 메서드를 설명하시오. |
+| [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/22) | TableView를 동작 방식과 화면에 Cell을 출력하기 위해 최소한 구현해야 하는 DataSource 메서드를 설명하시오. |
 | | 하나의 View Controller 코드에서 여러 TableView Controller 역할을 해야 할 경우 어떻게 구분해서 구현해야 하는지 설명하시오. |
 | | setNeedsLayout와 setNeedsDisplay의 차이에 대해 설명하시오. |
 | | stackView의 장점과 단점에 대해서 설명하시오. |
@@ -100,7 +100,7 @@
 | | defer란 무엇인지 설명하시오. |
 | | defer가 호출되는 순서는 어떻게 되고, defer가 호출되지 않는 경우를 설명하시오. |
 | | property wrapper에 대해서 설명하시오. |
-| | Generic에 대해 설명하시오. |
+| [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/23) | Generic에 대해 설명하시오. |
 | | some 키워드에 대해 설명하시오. |
 | | Result타입에 대해 설명하시오. |
 | | Codable에 대하여 설명하시오. |
@@ -110,7 +110,7 @@
 ## ARC
 | 답변 | 질문 |
 |:--:|--|
-| | ARC란 무엇인지 설명하시오. |
+| [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/21) | ARC란 무엇인지 설명하시오. |
 | | Retain Count 방식에 대해 설명하시오. |
 | | Strong 과 Weak 참조 방식에 대해 설명하시오. |
 | | 순환 참조에 대하여 설명하시오. |
