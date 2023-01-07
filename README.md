@@ -62,10 +62,10 @@
 ## Autolayout
 | 답변 | 질문 |
 |:--:|--|
-| | 오토레이아웃을 코드로 작성하는 방법은 무엇인가? (3가지) |
+| [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/20) | 오토레이아웃을 코드로 작성하는 방법은 무엇인가? (3가지) |
 | [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/8) | hugging, resistance에 대해서 설명하시오. |
 | [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/7) | Intrinsic Size에 대해서 설명하시오. |
-| | 스토리보드를 이용했을때의 장단점을 설명하시오. |
+| [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/19) | 스토리보드를 이용했을때의 장단점을 설명하시오. |
 | [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/5) | Safearea에 대해서 설명하시오. |
 | [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/4) | Left Constraint 와 Leading Constraint 의 차이점을 설명하시오. |
 
