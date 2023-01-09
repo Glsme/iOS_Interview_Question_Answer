@@ -1,10 +1,13 @@
-# 🧙 재르시 면접 질문에 대한 답변 정리입니다.
-[질문 링크](https://github.com/JeaSungLEE/iOSInterviewquestions#ios)
+# 🧙 재르시 면접 질문 + 하노 면접 질문 정리입니다.
+[재르시 질문 링크](https://github.com/JeaSungLEE/iOSInterviewquestions#ios)
 <br/></br>
 ```
+하노 면접 질문은 지속적으로 업데이트 될 예정입니다.
+
 만약 답변 중 틀린 것이나, 수정해야할 부분이 있다면 알려주시면 수정하도록 하겠습니다!
 ```
 <br/></br>
+# 재르시 면접 질문
 ## iOS
 | 답변 | 질문 | 
 |:--:|--|
@@ -89,9 +92,9 @@
 | | Delegates와 Notification 방식의 차이점에 대해 설명하시오. |
 | | 멀티 쓰레드로 동작하는 앱을 작성하고 싶을 때 고려할 수 있는 방식들을 설명하시오. |
 | | MVC 구조에 대해 블록 그림을 그리고, 각 역할과 흐름을 설명하시오. |
-| | 프로토콜이란 무엇인지 설명하시오. |
+| [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/29) | 프로토콜이란 무엇인지 설명하시오. |
 | | Protocol Oriented Programming과 Object Oriented Programming의 차이점을 설명하시오. |
-| | Hashable이 무엇이고, Equatable을 왜 상속해야 하는지 설명하시오. |
+| [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/28) | Hashable이 무엇이고, Equatable을 왜 상속해야 하는지 설명하시오. |
 | | mutating 키워드에 대해 설명하시오. |
 | | 탈출 클로저에 대하여 설명하시오. |
 | | Extension에 대해 설명하시오. |
@@ -155,3 +158,34 @@
 | | Subject의 종류와 차이점에 대해 설명하시오. |
 | | Subject와 Driver의 차이를 설명하시오. |
 | | Single, Completable, Maybe의 차이점에 대해 설명하고, 언제 적용하면 좋을지 설명하시오. |
+
+# 하노 면접 질문
+
+## iOS
+| 답변 | 질문 |
+|:--:|--|
+| | Repository 패턴에 대해서 설명하세요. |
+
+## Autolayout
+| 답변 | 질문 |
+|:--:|--|
+| | IBDesignable과 IBInspectable에 대해서 설명하세요. |
+| | Entry point에 대해서 설명하세요. |
+
+## Rx
+| 답변 | 질문 |
+|:--:|--|
+| | Rx 3요소에 대해서 간략하게 설명하세요. |
+| | Observable에 대해서 설명하세요. |
+
+## Network
+| 답변 | 질문 |
+|:--:|--|
+| | TCP 동작 방식에 대해서 설명하세요. |
+| | Observable에 대해서 설명하세요. |
+
+## Architecture
+| 답변 | 질문 |
+|:--:|--|
+| | SOLID 원칙에 대해서 간략하게 설명하세요. |
+| | Clean Architecture 규칙에 대해서 간략하게 설명하세요. |
