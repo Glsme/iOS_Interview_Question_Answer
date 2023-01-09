@@ -32,7 +32,7 @@
 | | Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오. |
 ###
 | | |
-|:--:|--|
+|--|--|
 | [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/26) | iOS 앱을 만들고, User Interface를 구성하는 데 필수적인 프레임워크 이름은 무엇인가? |
 | | Foundation Kit은 무엇이고 포함되어 있는 클래스들은 어떤 것이 있는지 설명하시오. |
 | | Delegate란 무엇인지 설명하고, retain 되는지 안되는지 그 이유를 함께 설명하시오. |
