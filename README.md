@@ -169,7 +169,7 @@
 ## Autolayout
 | 답변 | 질문 |
 |:--:|--|
-| | IBDesignable과 IBInspectable에 대해서 설명하세요. |
+| [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/30) | IBDesignable과 IBInspectable에 대해서 설명하세요. |
 | | Entry point에 대해서 설명하세요. |
 
 ## Rx
@@ -187,6 +187,6 @@
 ## Architecture
 | 답변 | 질문 |
 |:--:|--|
-| | SOLID 원칙에 대해서 간략하게 설명하세요. |
+| [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/31) | SOLID 원칙에 대해서 간략하게 설명하세요. |
 | | Clean Architecture 규칙에 대해서 간략하게 설명하세요. |
 | | input•output 패턴을 사용하는 이유에 대해서 설명하세요. |
