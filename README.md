@@ -31,7 +31,7 @@
 | | |
 |:--:|--|
 | | NSOperationQueue 와 GCD Queue 의 차이점을 설명하시오. |
-| | GCD API 동작 방식과 필요성에 대해 설명하시오. |
+| [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/32) | GCD API 동작 방식과 필요성에 대해 설명하시오. |
 | [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/27) | Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오. |
 ###
 | | |
@@ -60,7 +60,7 @@
 | | prepareForReuse에 대해서 설명하시오. |
 | | 다크모드를 지원하는 방법에 대해 설명하시오. |
 | [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/3) | ViewController의 생명주기를 설명하시오. |
-| | TableView와 CollectionView의 차이점을 설명하시오. |
+| [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/33) | TableView와 CollectionView의 차이점을 설명하시오. |
 
 ## Autolayout
 | 답변 | 질문 |
