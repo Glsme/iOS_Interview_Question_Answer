@@ -86,7 +86,7 @@
 | | String은 왜 subscript로 접근이 안되는지 설명하시오. |
 | | instance 메서드와 class 메서드의 차이점을 설명하시오. |
 | | class 메서드와 static 메서드의 차이점을 설명하시오. |
-| | Delegate 패턴을 활용하는 경우를 예를 들어 설명하시오. |
+| [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/34) | Delegate 패턴을 활용하는 경우를 예를 들어 설명하시오. |
 | | Singleton 패턴을 활용하는 경우를 예를 들어 설명하시오. |
 | | KVO 동작 방식에 대해 설명하시오. |
 | | Delegates와 Notification 방식의 차이점에 대해 설명하시오. |
@@ -96,7 +96,7 @@
 | | Protocol Oriented Programming과 Object Oriented Programming의 차이점을 설명하시오. |
 | [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/28) | Hashable이 무엇이고, Equatable을 왜 상속해야 하는지 설명하시오. |
 | | mutating 키워드에 대해 설명하시오. |
-| | 탈출 클로저에 대하여 설명하시오. |
+| [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/35) | 탈출 클로저에 대하여 설명하시오. |
 | | Extension에 대해 설명하시오. |
 | | Extension 내부에서 함수를 override할 수 있는지 설명하시오. |
 | | 접근 제어자의 종류엔 어떤게 있는지 설명하시오. |
@@ -107,7 +107,7 @@
 | | some 키워드에 대해 설명하시오. |
 | | Result타입에 대해 설명하시오. |
 | | Codable에 대하여 설명하시오. |
-| | Closure에 대하여 설명하시오. |
+| [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/36) | Closure에 대하여 설명하시오. |
 | | Closure와 함수와의 관계에 대해 설명하시오. |
 
 ## ARC
