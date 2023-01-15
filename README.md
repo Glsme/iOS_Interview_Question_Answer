@@ -130,7 +130,7 @@
 ## Architecture
 | 답변 | 질문 |
 |:--:|--|
-| | MVVM, MVI, Ribs, VIP 등 자신이 알고있는 아키텍쳐를 설명하시오. |
+| [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/37) | MVVM, MVI, Ribs, VIP 등 자신이 알고있는 아키텍쳐를 설명하시오. |
 | | 의존성 주입에 대하여 설명하시오. |
 
 ## SwiftUI
