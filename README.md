@@ -155,7 +155,7 @@
 | | RxSwift를 왜 사용하는지 설명하시오. |
 | | RxSwift의 단점을 설명하시오. |
 | | RxSwift에서 Hot Observable과 Cold Observable의 차이를 설명하시오. |
-| | Subject의 종류와 차이점에 대해 설명하시오. |
+| [링크](https://github.com/Glsme/iOS_Interview_Question_Answer/issues/38) | Subject의 종류와 차이점에 대해 설명하시오. |
 | | Subject와 Driver의 차이를 설명하시오. |
 | | Single, Completable, Maybe의 차이점에 대해 설명하고, 언제 적용하면 좋을지 설명하시오. |
 
